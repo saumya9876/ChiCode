@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/chicodeorg/ChiCode/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#### [Registration](#registration-1)  
+#### [Lessons](#lessons-1) 
+#### [About ChiCode](#about-chicode-1) 
+#### [FRQ](#frq-1)
+#### [Meet the Team](#meet-the-team-1)
+#### [Support and Contact](#support--contact)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# CHICODE
+ChiCode aims to motivate young children to explore the different aspects of technology. By setting up customized tutorials according to experience level, we hope to allow every student to learn at their own pace. 
 
-### Markdown
+ChiCode offers free online lessons on the most popular programming languages, Python and Java along with customized tutoring sessions by appointment.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---------------------
 
-```markdown
-Syntax highlighted code block
+## REGISTRATION
 
-# Header 1
-## Header 2
-### Header 3
+Sign up for the Python or Java tutorials and the virtual hackathon held at the end of the lessons. *
 
-- Bulleted
-- List
+[REGISTER](https://google.com/) now for customized sessions.
 
-1. Numbered
-2. List
+---------------------
 
-**Bold** and _Italic_ and `Code` text
+## LESSONS
+### Python
+### Java
 
-[Link](url) and ![Image](src)
-```
+---------------------
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## ABOUT CHICODE
 
-### Jekyll Themes
+ChiCode acknowledges that amidst the COVID-19 outbreak, many students' summer programs and activities have been cancelled or postponed. ChiCode would like to provide students an interactive online experience when learning Python and Java. Our mentors are motivated to help students learn in any way they feel comfortable by keeping the student mentor teacher ratio low for more personalized guidance.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chicodeorg/ChiCode/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---------------------
 
-### Support or Contact
+## FRQ
+### What is the age limit? 
+Anybody is welcome to join the sessions
+### What do I have to do to join the session?
+Abide by the Code of Conduct and the Media Release form.
+### How long is each lesson?
+Each lesson is between 30 and 45 minutes long.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---------------------
+
+## MEET THE TEAM
+### Nishi Kaura
+#### *Co-Founder*
+I am a rising junior attending Lynbrook High School. I have been programming since an early age. I enjoy coding in Java, Python, and other languages in my free time. I am excited to serve as co founder of ChiCode!
+
+### Saumya Verma
+#### *Co-Founder*
+(Description)
+
+---------------------
+
+## SUPPORT & CONTACT
+
+Email us at team@chicode.com!
+
+Check us out on [Facebook](https://www.facebook.com)!
+
+Follow us on [Instagram](https://www.instagram.com)!
+
+*If you have signed up for the tutorials, you will only then be eligible to participate and win awesome prizes at the virtual hackathon.
+
+
+---------------------
+
+
+
