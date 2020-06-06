@@ -40,7 +40,9 @@ ChiCode acknowledges that amidst the COVID-19 outbreak, many students' summer pr
 ### What is the age limit? 
 Anybody is welcome to join the sessions!
 ### What do I have to do to join the sessions?
-Abide by the [Code of Conduct](https://www.google.com/url?q=https://tinyurl.com/chicode-codeofconduct&sa=D&ust=1591432515947000&usg=AFQjCNHeAM5x7UTFxuDgQ_dAVX4t7kpzXg) and the [Media Release](https://www.google.com/url?q=https://tinyurl.com/chicode-mediarelease&sa=D&ust=1591432515947000&usg=AFQjCNG4HqKlHMGytkO0V4NGSqgumZo5XA) form.  Have Zoom installed on your laptop or PC.  Be registered with the form linked above.
+Abide by the [Code of Conduct](https://www.google.com/url?q=https://tinyurl.com/chicode-codeofconduct&sa=D&ust=1591432515947000&usg=AFQjCNHeAM5x7UTFxuDgQ_dAVX4t7kpzXg) and the [Media Release](https://www.google.com/url?q=https://tinyurl.com/chicode-mediarelease&sa=D&ust=1591432515947000&usg=AFQjCNG4HqKlHMGytkO0V4NGSqgumZo5XA) form.  
+Have Zoom installed on your laptop or PC.  
+Be registered with the form linked above.
 ### What should I have for the lessons?
 Internet connection  [Python](https://wiki.python.org/moin/BeginnersGuide/Download) or [Java](https://java.com/en/download/help/download_options.xml) installed  Laptop or PC
 ### How long is each lesson?
