@@ -4,7 +4,7 @@
 #### [About ChiCode](#about-chicode-1) 
 #### [FRQ](#frq-1)
 #### [Meet the Team](#meet-the-team-1)
-#### [Become a Mentor]
+#### [Become a Mentor](#become-a-mentor-1)
 #### [Support and Contact](#support--contact)
 
 # CHICODE
