@@ -17,7 +17,7 @@ ChiCode offers free online lessons on the most popular programming languages, Py
 
 Sign up for the Python or Java tutorials and the virtual hackathon held at the end of the lessons. *
 
-[REGISTER](https://google.com/) now for customized sessions.
+[REGISTER](https://docs.google.com/forms/d/e/1FAIpQLScg75TsBWCrEvDgU0xCVGNjvdDetL7K8xNNb3CkI706jPZMcw/viewform/) now for customized sessions.
 
 ---------------------
 
@@ -37,7 +37,7 @@ ChiCode acknowledges that amidst the COVID-19 outbreak, many students' summer pr
 ### What is the age limit? 
 Anybody is welcome to join the sessions
 ### What do I have to do to join the session?
-Abide by the Code of Conduct and the Media Release form.
+Abide by the [Code of Conduct](https://www.google.com/url?q=https://tinyurl.com/chicode-codeofconduct&sa=D&ust=1591432515947000&usg=AFQjCNHeAM5x7UTFxuDgQ_dAVX4t7kpzXg) and the [Media Release](https://www.google.com/url?q=https://tinyurl.com/chicode-mediarelease&sa=D&ust=1591432515947000&usg=AFQjCNG4HqKlHMGytkO0V4NGSqgumZo5XA) form.
 ### How long is each lesson?
 Each lesson is between 30 and 45 minutes long.
 
@@ -46,7 +46,7 @@ Each lesson is between 30 and 45 minutes long.
 ## MEET THE TEAM
 ### Nishi Kaura
 #### *Co-Founder*
-I am a rising junior attending Lynbrook High School. I have been programming since an early age. I enjoy coding in Java, Python, and other languages in my free time. I am excited to serve as co founder of ChiCode!
+I am a rising junior attending Lynbrook High School. I have been programming since an early age. I enjoy coding in Java, Python, and other languages in my free time. I am also a co-founder of [A-Z Hacks](https://www.a-zhacks.com), where the hackathon was in partnership with LinkedIn and Nova. I am excited to serve as co founder of ChiCode!
 
 ### Saumya Verma
 #### *Co-Founder*
@@ -62,10 +62,8 @@ Check us out on [Facebook](https://www.facebook.com)!
 
 Follow us on [Instagram](https://www.instagram.com)!
 
-*If you have signed up for the tutorials, you will only then be eligible to participate and win awesome prizes at the virtual hackathon.
-
-
 ---------------------
+*If you have signed up for the tutorials, you will only then be eligible to participate and win awesome prizes at the virtual hackathon.
 
 
 
