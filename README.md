@@ -4,7 +4,6 @@
 #### [About ChiCode](#about-chicode-1) 
 #### [FRQ](#frq-1)
 #### [Meet the Team](#meet-the-team-1)
-#### [Become a Mentor](#become-a-mentor-1)
 #### [Support and Contact](#support--contact)
 
 # CHICODE
@@ -54,10 +53,7 @@ I am a rising junior attending Lynbrook High School. I have been programming sin
 #### *Co-Founder*
 (Description)
 
----------------------
-
-## BECOME A MENTOR
-If you are interested in volunteering to mentor students for either Python or Java, please fill out the application. We will contact you soon with further details.
+Interested in becoming a volunteer? Fill out this application.
 
 ---------------------
 
