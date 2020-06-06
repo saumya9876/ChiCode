@@ -23,6 +23,8 @@ Sign up for the Python or Java tutorials and the virtual hackathon held at the e
 
 ## LESSONS
 ### Python
+In recent years, Python has become an increasingly popular programming language amongst software developers. In this course, we will be teaching students fundamental concepts such as primitive types, variables, arithmetic operators, conditional expressions, and iteration. In addition, we will have fun exercises and projects for students to exercise their knowledge. 
+Get started with lessons here.
 ### Java
 
 ---------------------
@@ -47,11 +49,12 @@ Each lesson is between 30 and 45 minutes long.
 ## MEET THE TEAM
 ### Nishi Kaura
 #### *Co-Founder*
-I am a rising junior attending Lynbrook High School. I have been programming since an early age. I enjoy coding in Java, Python, and other languages in my free time. I am also co-founder of [A-Z Hacks](https://www.a-zhacks.com), where the hackathon was in partnership with LinkedIn and Nova. I am excited to serve as co-founder of ChiCode!
+I am a rising junior attending Lynbrook High School. I have been programming since an early age. I enjoy coding in Java, Python, and other languages in my free time. I am also co-founder of [A-Z Hacks](https://www.a-zhacks.com), where the hackathon was in partnership with LinkedIn and NOVA. I am excited to serve as co-founder of ChiCode!
 
 ### Saumya Verma
 #### *Co-Founder*
-(Description)
+I am a junior attending Lynbrook High School. I love to code in Java, Python, and other languages. I am very passionate about programming, and I take a lot of interest in machine learning. I am thrilled to be one of the co-founders at ChiCode, and I look forward to making an impact through my contribution.
+
 
 Interested in becoming a volunteer? Fill out this application.
 
