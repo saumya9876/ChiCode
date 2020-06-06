@@ -47,7 +47,7 @@ Each lesson is between 30 and 45 minutes long.
 ## MEET THE TEAM
 ### Nishi Kaura
 #### *Co-Founder*
-I am a rising junior attending Lynbrook High School. I have been programming since an early age. I enjoy coding in Java, Python, and other languages in my free time. I am also a co-founder of [A-Z Hacks](https://www.a-zhacks.com), where the hackathon was in partnership with LinkedIn and Nova. I am excited to serve as co founder of ChiCode!
+I am a rising junior attending Lynbrook High School. I have been programming since an early age. I enjoy coding in Java, Python, and other languages in my free time. I am also co-founder of [A-Z Hacks](https://www.a-zhacks.com), where the hackathon was in partnership with LinkedIn and Nova. I am excited to serve as co-founder of ChiCode!
 
 ### Saumya Verma
 #### *Co-Founder*
