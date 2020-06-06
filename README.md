@@ -40,13 +40,13 @@ ChiCode acknowledges that amidst the COVID-19 outbreak, many students' summer pr
 ### What is the age limit? 
 Anybody is welcome to join the sessions!
 ### What should I have for the lessons?
-   1. Internet connection
-  2. [Python](https://wiki.python.org/moin/BeginnersGuide/Download) or [Java](https://java.com/en/download/help/download_options.xml) installed
-  3. Laptop or PC
+  Internet connection
+ [Python](https://wiki.python.org/moin/BeginnersGuide/Download) or [Java](https://java.com/en/download/help/download_options.xml) installed
+  Laptop or PC
 ### What do I have to do to join the sessions?
-  1. Abide by the [Code of Conduct](https://www.google.com/url?q=https://tinyurl.com/chicode-codeofconduct&sa=D&ust=1591432515947000&usg=AFQjCNHeAM5x7UTFxuDgQ_dAVX4t7kpzXg) and the [Media Release](https://www.google.com/url?q=https://tinyurl.com/chicode-mediarelease&sa=D&ust=1591432515947000&usg=AFQjCNG4HqKlHMGytkO0V4NGSqgumZo5XA) form.
-  2. Have Zoom installed on your laptop or PC.
-  3. Be registered with the form linked above.
+ Abide by the [Code of Conduct](https://www.google.com/url?q=https://tinyurl.com/chicode-codeofconduct&sa=D&ust=1591432515947000&usg=AFQjCNHeAM5x7UTFxuDgQ_dAVX4t7kpzXg) and the [Media Release](https://www.google.com/url?q=https://tinyurl.com/chicode-mediarelease&sa=D&ust=1591432515947000&usg=AFQjCNG4HqKlHMGytkO0V4NGSqgumZo5XA) form.
+ Have Zoom installed on your laptop or PC.
+ Be registered with the form linked above.
 ### How long is each lesson?
 Each lesson is between 30 and 45 minutes long.
 
