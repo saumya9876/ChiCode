@@ -44,9 +44,9 @@ Abide by the [Code of Conduct](https://www.google.com/url?q=https://tinyurl.com/
 Have Zoom installed on your laptop or PC.\
 Be registered with the form linked above.\
 ### What should I have for the lessons?
-Internet connection
-[Python](https://wiki.python.org/moin/BeginnersGuide/Download) or [Java](https://java.com/en/download/help/download_options.xml) installed
-Laptop or PC
+Internet connection\
+[Python](https://wiki.python.org/moin/BeginnersGuide/Download) or [Java](https://java.com/en/download/help/download_options.xml) installed\
+Laptop or PC\
 ### How long is each lesson?
 Each lesson is between 30 and 45 minutes long.
 
