@@ -62,7 +62,7 @@ I am a rising junior attending Lynbrook High School. I have been programming sin
 I am a junior attending Lynbrook High School. I love to code in Java, Python, and other languages. I am very passionate about programming, and I take a lot of interest in machine learning. I am thrilled to be one of the co-founders at ChiCode, and I look forward to making an impact through my contribution.
 
 
-Interested in becoming a volunteer? Fill out this application.
+Interested in becoming a volunteer? Fill out this [application](https://docs.google.com/forms/d/1HY-Xhw8xfrSl9QZs87ZMEO9eISi3kU92NOg3IxMw1Fs/viewform?ts=5edf24e9&edit_requested=true).
 
 ---------------------
 
