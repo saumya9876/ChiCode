@@ -9,7 +9,7 @@
 # CHICODE
 ChiCode aims to motivate young children to explore the different aspects of technology. By setting up customized tutorials according to experience level, we hope to allow every student to learn at their own pace. 
 
-ChiCode offers free online lessons on the most popular programming languages, Python and Java along with customized tutoring sessions by appointment.
+ChiCode offers FREE online lessons on the most popular programming languages, Python and Java along with mentor-student appointnments, if needed.
 
 ---------------------
 
@@ -31,7 +31,7 @@ Get started with lessons here.
 
 ## ABOUT CHICODE
 
-ChiCode acknowledges that amidst the COVID-19 outbreak, many students' summer programs and activities have been cancelled or postponed. ChiCode provides students an interactive online experience learning Python and Java. Our mentors are motivated to help students learn in any way they feel comfortable by keeping the student mentor teacher ratio low for more personalized guidance.
+ChiCode acknowledges that amidst the COVID-19 outbreak, many students' summer programs and activities have been cancelled or postponed. ChiCode provides students an interactive online experience learning Python and Java. Our mentors are motivated to help students learn in any way they feel comfortable by keeping the student mentor ratio low for more personalized guidance. 
 [Learn more](https://www.powtoon.com/online-presentation/dO213uOsrY2/school-syllabus/?mode=movie)
 
 ---------------------
@@ -55,7 +55,7 @@ Each lesson is between 30 and 45 minutes long.
 ## MEET THE TEAM
 ### Nishi Kaura
 #### *Co-Founder*
-I am a rising junior attending Lynbrook High School. I have been programming since an early age. I enjoy coding in Java, Python, and other languages in my free time. I am also co-founder of [A-Z Hacks](https://www.a-zhacks.com), where the hackathon hosted 100 particpants and was in partnership with LinkedIn and NOVA. I am excited to serve as co-founder of ChiCode!
+I am a rising junior attending Lynbrook High School. I have been programming since an early age. I enjoy coding in Java, Python, and other languages in my free time. I have completed the APCS A curriculum. I am also co-founder of [A-Z Hacks](https://www.a-zhacks.com), where the hackathon hosted over 100 particpants and was in partnership with Fortune 500 company, LinkedIn and NOVA. I am excited to serve as co-founder of ChiCode!
 
 ### Saumya Verma
 #### *Co-Founder*
