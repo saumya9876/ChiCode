@@ -26,6 +26,7 @@ Sign up for the Python or Java tutorials and the virtual hackathon held at the e
 In recent years, Python has become an increasingly popular programming language amongst software developers. In this course, we will be teaching students fundamental concepts such as primitive types, variables, arithmetic operators, conditional expressions, and iteration. In addition, we will have fun exercises and projects for students to exercise their knowledge. 
 Get started with lessons here.
 ### Java
+In this course, mentors will be teaching students the basics of Java which includes, classes, objects, loops, iteratations, methods, and more! These lessons will be supplemented with educational exercises and small projects. Get started with lessons here.
 
 ---------------------
 
@@ -45,10 +46,10 @@ Have Zoom installed on your laptop or PC.
 Be registered with the form linked above.
 ### What should I have for the lessons?
 Internet connection  
-[Python](https://wiki.python.org/moin/BeginnersGuide/Download) or [Java](https://java.com/en/download/help/download_options.xml) installed  
+[Python](https://www.youtube.com/watch?v=YYXdXT2l-Gg) or [Java Mac](https://www.youtube.com/watch?v=gufMbpxzfWw)/[Java Windows](https://www.youtube.com/watch?v=rSFraftR4I4) installed  
 Laptop or PC
 ### How long is each lesson?
-Each lesson is between 30 and 45 minutes long.
+Each lesson is between 25 and 40 minutes long.
 
 ---------------------
 
