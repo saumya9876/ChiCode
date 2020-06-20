@@ -7,17 +7,15 @@
 #### [Support and Contact](#support--contact)
 
 # CHICODE
-ChiCode aims to motivate young children to explore the different aspects of technology. By setting up customized tutorials according to experience level, we hope to allow every student to learn at their own pace. 
+ChiCode aims to motivate children and young adults to explore the different aspects of technology. By setting up customized tutorials according to experience level, we hope to allow every student to learn at their own pace. 
 
-ChiCode offers FREE online lessons on the most popular programming languages, Python and Java along with mentor-student appointnments, if needed.
+ChiCode offers FREE online lessons on the most popular programming languages, Python and Java along with mentor-student appointnments, as needed.
 
 ---------------------
 
 ## REGISTRATION
 
-Sign up for the Python or Java tutorials! *
-
-[REGISTER](https://docs.google.com/forms/d/e/1FAIpQLScg75TsBWCrEvDgU0xCVGNjvdDetL7K8xNNb3CkI706jPZMcw/viewform) now for lessons.
+[REGISTER](https://docs.google.com/forms/d/e/1FAIpQLScg75TsBWCrEvDgU0xCVGNjvdDetL7K8xNNb3CkI706jPZMcw/viewform) for the sessions! 
 
 ---------------------
 
@@ -46,7 +44,7 @@ Have Zoom installed on your laptop or PC.
 Be registered with the form linked above.
 ### What should I have for the lessons?
 Internet connection  
-[Python](https://www.youtube.com/watch?v=YYXdXT2l-Gg) or [Java Mac](https://www.youtube.com/watch?v=gufMbpxzfWw)/[Java Windows](https://www.youtube.com/watch?v=rSFraftR4I4) installed  
+[Python](https://www.youtube.com/watch?v=YYXdXT2l-Gg) or [Java for Mac](https://www.youtube.com/watch?v=gufMbpxzfWw)/[Java for Windows](https://www.youtube.com/watch?v=rSFraftR4I4) installed  
 Laptop or PC
 ### How long is each lesson?
 Each lesson is between 25 and 40 minutes long.
