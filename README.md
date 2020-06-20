@@ -56,7 +56,11 @@ Each lesson is between 25 and 40 minutes long.
 ## MEET THE TEAM
 ### Nishi Kaura
 #### *Co-Founder*
-I am a rising junior attending Lynbrook High School. I have been programming since an early age. I enjoy coding in Java, Python, and other languages in my free time. I have completed the APCS A curriculum. I am also co-founder of [A-Z Hacks](https://www.a-zhacks.com), where the hackathon hosted over 100 particpants and was in partnership with Fortune 500 company, LinkedIn and NOVA. I am excited to serve as co-founder of ChiCode!
+My vision in cofounding ChiCode is to allow children, young adults, and especially girls in developing countries gain access to computer literacy.  This idea was first born when I visited an orphanage in developing country while in elementary school and noticed that many children don’t have access to basic computer literacy. Later in middle school, I revisited the orphanage after hosting a fundraiser to donate laptops and taught the children basic computer literacy. During my freshman year, I founded A-Z Hacks, a non profit organization and hosted a 100 hacker plus hackathon in partnership with Women in Tech at LinkedIn in an effort to promote girls interest in technology. During COVID 19 pandemic, I want to continue my efforts to help children and young adults to learn/improve their computer skills safely by providing them access to online computer courses. Creating online courses is my humble effort to use my passion for Computer Science to make computer literacy accessible to aspiring students 
+
+### Rahul Kaura
+#### *Co-Founder*
+I am a rising junior attending Lynbrook High School. I am excited to serve as co-founder of ChiCode!
 
 ### Saumya Verma
 #### *Co-Founder*
