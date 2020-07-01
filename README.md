@@ -78,7 +78,7 @@ Check us out on [Facebook](https://www.facebook.com)!
 Follow us on [Instagram](https://www.instagram.com)!
 
 ---------------------
-
+501 (c) 3 organization
 
 
 
