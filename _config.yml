@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Welcome to ChiCode!
 description: Learn the most popular programming languages, Python and Java, virtually for free!
-logo: /assets/images/logo.png
+image: /assets/images/logo.png
