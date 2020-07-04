@@ -15,7 +15,7 @@ ChiCode offers FREE online lessons on the most popular programming languages, Py
 
 ## REGISTRATION
 
-[REGISTER](https://docs.google.com/forms/d/e/1FAIpQLScg75TsBWCrEvDgU0xCVGNjvdDetL7K8xNNb3CkI706jPZMcw/viewform) for the sessions! 
+[REGISTER](https://docs.google.com/forms/d/e/1FAIpQLScg75TsBWCrEvDgU0xCVGNjvdDetL7K8xNNb3CkI706jPZMcw/viewform) for the courses! 
 
 ---------------------
 
@@ -52,7 +52,7 @@ Internet connection
 [Python](https://www.youtube.com/watch?v=YYXdXT2l-Gg) or [Java for Mac](https://www.youtube.com/watch?v=gufMbpxzfWw)/[Java for Windows](https://www.youtube.com/watch?v=rSFraftR4I4) installed  
 Laptop or PC
 ### How long is each lesson?
-Each lesson is between 25 and 40 minutes long.
+Each lesson is between 30 and 45 minutes long.
 
 ---------------------
 
