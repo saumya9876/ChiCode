@@ -60,15 +60,17 @@ Each lesson is between 30 and 45 minutes long.
 ### Nishi Kaura
 #### *Co-Founder*
 My vision in cofounding ChiCode is to allow children and young adults to gain access to computer literacy.  This idea was first born when I visited an orphanage in developing country while in elementary school and noticed that many children don’t have access to basic computer literacy. Later in middle school, I revisited the orphanage after hosting a fundraiser to donate laptops and taught the children basic computer literacy. During my freshman year, I founded A-Z Hacks, a non profit organization and hosted a 100 hacker plus hackathon in partnership with Women in Tech at LinkedIn in an effort to promote girls interest in technology. During COVID 19 pandemic, I want to continue my efforts to help children and young adults to learn/improve their computer skills safely by providing them access to online computer courses. Creating online courses is my humble effort to use my passion for Computer Science to make computer literacy accessible to aspiring students 
+*nishi@chicode.tech*
 
 ### Rahul Kaura
 #### *Co-Founder*
 I am a rising junior attending Lynbrook High School. I am excited to serve as co-founder of ChiCode!
+*rahul@chicode.tech*
 
 ### Saumya Verma
 #### *Co-Founder*
 I am a junior attending Lynbrook High School. I love to code in Java, Python, and other languages. I am very passionate about programming, and I take a lot of interest in machine learning. I am thrilled to be one of the co-founders at ChiCode, and I look forward to making an impact through my contribution.
-
+*saumya@chicode.tech*
 
 Interested in becoming a volunteer? Fill out this [application](https://docs.google.com/forms/d/1HY-Xhw8xfrSl9QZs87ZMEO9eISi3kU92NOg3IxMw1Fs/viewform?ts=5edf24e9&edit_requested=true).
 
@@ -76,7 +78,7 @@ Interested in becoming a volunteer? Fill out this [application](https://docs.goo
 
 ## SUPPORT & CONTACT
 
-Email us at team@chicode.com!
+Contact us at team@chicode.tech!
 
 Check us out on [Facebook](https://www.facebook.com)!
 
