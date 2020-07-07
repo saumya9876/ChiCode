@@ -1,6 +1,5 @@
 
-#### [Registration](#registration-1)  [*LESSONS*](#lessons-1) 
-#### [About ChiCode](#about-chicode-1) 
+#### [Registration](#registration-1)  [*LESSONS*](#lessons-1)  [*ABOUT CHICODE*](#about-chicode-1) 
 #### [FRQ](#frq-1)
 #### [Meet the Team](#meet-the-team-1)
 #### [Support and Contact](#support--contact)
