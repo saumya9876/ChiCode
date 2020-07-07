@@ -75,6 +75,7 @@ I am a junior attending Lynbrook High School. I love to code in Java, Python, an
 ## International Chapters
 ### Vikram Pasricha
 #### *Chapter Head - India*
+*vikram@chicode.tech*  
 
 Interested in becoming a volunteer? Fill out this [application](https://docs.google.com/forms/d/1HY-Xhw8xfrSl9QZs87ZMEO9eISi3kU92NOg3IxMw1Fs/viewform?ts=5edf24e9&edit_requested=true).
 
