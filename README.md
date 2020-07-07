@@ -72,7 +72,6 @@ I am a rising junior attending Lynbrook High School. I am excited to serve as co
 I am a junior attending Lynbrook High School. I love to code in Java, Python, and other languages. I am very passionate about programming, and I take a lot of interest in machine learning. I am thrilled to be one of the co-founders at ChiCode, and I look forward to making an impact through my contribution.  
 *saumya@chicode.tech*
 
--    -     -    -   
 ## International Chapters
 ### Vikram Pasricha
 #### *Chapter Head - India*
