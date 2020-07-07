@@ -40,7 +40,7 @@ ChiCode acknowledges that amidst the COVID-19 outbreak, many students' summer pr
 
 ---------------------
 
-## FRQ
+## FAQ
 ### What is the age limit? 
 Anybody is welcome to join the sessions!
 ### What do I have to do to join the sessions?
@@ -71,6 +71,11 @@ I am a rising junior attending Lynbrook High School. I am excited to serve as co
 #### *Co-Founder*
 I am a junior attending Lynbrook High School. I love to code in Java, Python, and other languages. I am very passionate about programming, and I take a lot of interest in machine learning. I am thrilled to be one of the co-founders at ChiCode, and I look forward to making an impact through my contribution.  
 *saumya@chicode.tech*
+
+-    -     -    -   
+## International Chapters
+### Vikram Pasricha
+#### *Chapter Head - India*
 
 Interested in becoming a volunteer? Fill out this [application](https://docs.google.com/forms/d/1HY-Xhw8xfrSl9QZs87ZMEO9eISi3kU92NOg3IxMw1Fs/viewform?ts=5edf24e9&edit_requested=true).
 
